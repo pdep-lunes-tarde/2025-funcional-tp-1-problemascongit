@@ -2,11 +2,11 @@
 
 ## Grupo, nombre y legajo de integrantes
 
-- Nombre del grupo: **Completar**
+- Nombre del grupo: ProblemasConGit
 
 Integrantes:
-- Legajo: **Completar** 
-- Nombre: **Completar**
+- Legajo: 209.018-1
+- Nombre: Facundo
 
 - Legajo: **Completar** 
 - Nombre: **Completar**
