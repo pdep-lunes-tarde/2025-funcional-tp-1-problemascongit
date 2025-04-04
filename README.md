@@ -8,8 +8,8 @@ Integrantes:
 - Legajo: 209.018-1
 - Nombre: Facundo
 
-- Legajo: **Completar** 
-- Nombre: **Completar**
+- Legajo: 203.558-3 
+- Nombre: Francisco
 
 
 ## Objetivos
